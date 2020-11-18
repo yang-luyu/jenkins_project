@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-FCKD4GQ",
+    "children" : [ {
+      "name" : "8476-MainThread",
+      "children" : [ {
+        "name" : "test_login_002",
+        "uid" : "658405f5be48ca03",
+        "parentUid" : "72e20bb87ace9094f92b62241eb8c421",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605621128580,
+          "stop" : 1605621128580,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_001",
+        "uid" : "a1d791cdc477c512",
+        "parentUid" : "72e20bb87ace9094f92b62241eb8c421",
+        "status" : "failed",
+        "time" : {
+          "start" : 1605621128546,
+          "stop" : 1605621128546,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_003",
+        "uid" : "4718b1e36f6fff20",
+        "parentUid" : "72e20bb87ace9094f92b62241eb8c421",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605621128582,
+          "stop" : 1605621128583,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72e20bb87ace9094f92b62241eb8c421"
+    } ],
+    "uid" : "d985a234f59a2c449744f066af0de0c1"
+  } ]
+}

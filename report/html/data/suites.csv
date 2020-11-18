@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Nov 17 21:52:08 CST 2020","Tue Nov 17 21:52:08 CST 2020","0","scripts","test_login","TestLogin","","","test_login_002",""
+"failed","Tue Nov 17 21:52:08 CST 2020","Tue Nov 17 21:52:08 CST 2020","0","scripts","test_login","TestLogin","","","test_login_001",""
+"passed","Tue Nov 17 21:52:08 CST 2020","Tue Nov 17 21:52:08 CST 2020","1","scripts","test_login","TestLogin","","","test_login_003",""
